@@ -17,6 +17,7 @@ authors:
     orcid: "https://orcid.org/0000-0003-4517-7232"
     affiliation: "Department of Information Technology, College of Computers and Information Technology, Taif University, Taif, Saudi Arabia"
 version: "1.0.0"
+doi: "10.5281/zenodo.22375531"
 date-released: "2026-09-05"
 license: MIT
 repository-code: "https://github.com/usamrf/agentic-socaas-validation"

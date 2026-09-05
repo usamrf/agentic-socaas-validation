@@ -1,5 +1,7 @@
 # Agentic SOCaaS Validation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22375531.svg)](https://doi.org/10.5281/zenodo.22375531)
+
 Simulation and validation suite for the experimental validation section of:
 
 > *Agentic AI-Driven SOC-as-a-Service for Optimizing Incident Response in
@@ -74,7 +76,7 @@ or human-subject data are used.
 
 ## Citation
 
-Archived at Zenodo: version DOI to be added upon the v1.0.0 release. Until then, cite via `CITATION.cff`.
+Archived at Zenodo (v1.0.0): [10.5281/zenodo.22375531](https://doi.org/10.5281/zenodo.22375531). Concept DOI (all versions): 10.5281/zenodo.22375530. See `CITATION.cff` for the full citation.
 
 ## License
 
