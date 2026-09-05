@@ -1,19 +1,25 @@
-# TODO — DO NOT PUBLISH THIS FILE AS-IS.
-# Finalize the authors list and Zenodo VERSION DOI (not the concept DOI)
-# once authorship is agreed and the record is minted, then remove this header.
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "Agentic SOCaaS Validation: simulation suite for an Agentic AI-driven SOC-as-a-Service framework"
 type: software
 authors:
-  # TODO: replace with the final agreed author list (family-names, given-names, affiliation, orcid)
-  - family-names: "TBD"
-    given-names: "TBD"
+  - family-names: "Alhumaidi"
+    given-names: "Abdulaziz Y."
+    affiliation: "Saudi Aramco Cybersecurity Chair, Networks and Communications Department, College of Computer Science and Information Technology, Imam Abdulrahman Bin Faisal University, Dammam, Saudi Arabia"
+  - family-names: "Al-Qadda"
+    given-names: "Faisal A."
+    affiliation: "Saudi Aramco Cybersecurity Chair, Networks and Communications Department, College of Computer Science and Information Technology, Imam Abdulrahman Bin Faisal University, Dammam, Saudi Arabia"
+  - family-names: "Alsumayt"
+    given-names: "Albandri"
+    affiliation: "Saudi Aramco Cybersecurity Chair, Networks and Communications Department, College of Computer Science and Information Technology, Imam Abdulrahman Bin Faisal University, Dammam, Saudi Arabia"
+  - family-names: "Alshammari"
+    given-names: "Majed"
+    orcid: "https://orcid.org/0000-0003-4517-7232"
+    affiliation: "Department of Information Technology, College of Computers and Information Technology, Taif University, Taif, Saudi Arabia"
 version: "1.0.0"
-# doi: TODO — Zenodo version DOI
-date-released: "TODO"
+date-released: "2026-09-05"
 license: MIT
-repository-code: "https://github.com/usamrf/agentic-socaas-validation"  # TODO: confirm final repo URL
+repository-code: "https://github.com/usamrf/agentic-socaas-validation"
 keywords:
   - cloud computing security
   - SOC-as-a-service
@@ -24,8 +30,14 @@ keywords:
 preferred-citation:
   type: article
   title: "Agentic AI-Driven SOC-as-a-Service for Optimizing Incident Response in Cloud Environments: A Conceptual Framework"
-  # TODO: add final author list, journal volume/pages, and article DOI upon acceptance
   journal: "Sensors"
+  notes: "Under review. Volume, pages, and article DOI to be added upon acceptance."
   authors:
-    - family-names: "TBD"
-      given-names: "TBD"
+    - family-names: "Alhumaidi"
+      given-names: "Abdulaziz Y."
+    - family-names: "Al-Qadda"
+      given-names: "Faisal A."
+    - family-names: "Alsumayt"
+      given-names: "Albandri"
+    - family-names: "Alshammari"
+      given-names: "Majed"
