@@ -1,0 +1,7 @@
+step,empirical_logging_coverage
+Telemetry ingestion,0.995
+Triage & enrichment,0.995
+Retrieval grounding,0.987
+Agentic reasoning,0.994
+Governance decision,0.994
+Response execution,0.992

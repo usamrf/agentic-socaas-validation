@@ -1,0 +1,10 @@
+Metric,Value
+Test events,6000
+Macro F1,0.907
+Weighted F1,0.943
+Alert volume reduction - argmax policy,71.8%
+Benign suppression rate - argmax policy,99.1%
+Threat leakage - argmax policy,12.22%
+Alert volume reduction - conservative gate (P>=0.90),59.5%
+Benign suppression rate - conservative gate,84.7%
+Threat leakage - conservative gate,4.81%

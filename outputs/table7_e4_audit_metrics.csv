@@ -1,0 +1,8 @@
+Metric,Value
+Monte Carlo runs,1000.0
+Complete evidence chains (%),95.5
+Mean steps logged (of 6),5.95
+Mean audit overhead (%),1.79
+P95 audit overhead (%),3.41
+"Mean end-to-end time, low-risk path (s)",54.3
+"Mean end-to-end time, high-risk path incl. approval (s)",327.7
