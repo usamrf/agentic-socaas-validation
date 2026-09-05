@@ -1,0 +1,7 @@
+# Verified versions used to generate the reference outputs.
+# Nearby versions (e.g., Colab defaults) also work; exact numerical
+# reproducibility of the reference outputs requires these pins.
+numpy==2.4.4
+pandas==3.0.2
+scikit-learn==1.8.0
+matplotlib==3.10.8

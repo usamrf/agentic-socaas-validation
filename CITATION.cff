@@ -1,0 +1,31 @@
+# TODO — DO NOT PUBLISH THIS FILE AS-IS.
+# Finalize the authors list and Zenodo VERSION DOI (not the concept DOI)
+# once authorship is agreed and the record is minted, then remove this header.
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Agentic SOCaaS Validation: simulation suite for an Agentic AI-driven SOC-as-a-Service framework"
+type: software
+authors:
+  # TODO: replace with the final agreed author list (family-names, given-names, affiliation, orcid)
+  - family-names: "TBD"
+    given-names: "TBD"
+version: "1.0.0"
+# doi: TODO — Zenodo version DOI
+date-released: "TODO"
+license: MIT
+repository-code: "https://github.com/usamrf/agentic-socaas-validation"  # TODO: confirm final repo URL
+keywords:
+  - cloud computing security
+  - SOC-as-a-service
+  - incident response
+  - agentic AI
+  - retrieval-augmented generation
+  - discrete-event simulation
+preferred-citation:
+  type: article
+  title: "Agentic AI-Driven SOC-as-a-Service for Optimizing Incident Response in Cloud Environments: A Conceptual Framework"
+  # TODO: add final author list, journal volume/pages, and article DOI upon acceptance
+  journal: "Sensors"
+  authors:
+    - family-names: "TBD"
+      given-names: "TBD"
