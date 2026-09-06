@@ -7,7 +7,7 @@ Simulation and validation suite for the experimental validation section of:
 > *Agentic AI-Driven SOC-as-a-Service for Optimizing Incident Response in
 > Cloud Environments: A Conceptual Framework.* Submitted to *Sensors* (MDPI).
 >
-> Abdulaziz Y. Alhumaidi, Faisal A. Al-Qadda, Albandri Alsumayt, and Majed Alshammari.
+> Abdulaziz Y. Alhumaidi, Faisal A. Al-Qadda, Albandri Alsumayt, and Majid Alshammari.
 
 This repository contains the code, generated data, figures, and tables for
 four seeded, fully reproducible simulation experiments that validate the
@@ -76,7 +76,7 @@ or human-subject data are used.
 
 ## Citation
 
-Archived at Zenodo (v1.0.0): [10.5281/zenodo.22375531](https://doi.org/10.5281/zenodo.22375531). Concept DOI (all versions): 10.5281/zenodo.22375530. Simulation code developed by Majed Alshammari; see `CITATION.cff` for the full citation.
+Archived at Zenodo (v1.0.0): [10.5281/zenodo.22375531](https://doi.org/10.5281/zenodo.22375531). Concept DOI (all versions): 10.5281/zenodo.22375530. Simulation code developed by Majid Alshammari; see `CITATION.cff` for the full citation.
 
 ## License
 

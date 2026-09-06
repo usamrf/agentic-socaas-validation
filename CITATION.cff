@@ -4,7 +4,7 @@ title: "Agentic SOCaaS Validation: simulation suite for an Agentic AI-driven SOC
 type: software
 authors:
   - family-names: "Alshammari"
-    given-names: "Majed"
+    given-names: "Majid"
     orcid: "https://orcid.org/0000-0003-4517-7232"
     affiliation: "Department of Information Technology, College of Computers and Information Technology, Taif University, Taif, Saudi Arabia"
 version: "1.0.0"
@@ -32,4 +32,4 @@ preferred-citation:
     - family-names: "Alsumayt"
       given-names: "Albandri"
     - family-names: "Alshammari"
-      given-names: "Majed"
+      given-names: "Majid"
