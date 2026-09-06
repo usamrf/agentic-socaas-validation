@@ -76,7 +76,7 @@ or human-subject data are used.
 
 ## Citation
 
-Archived at Zenodo (v1.0.0): [10.5281/zenodo.22375531](https://doi.org/10.5281/zenodo.22375531). Concept DOI (all versions): 10.5281/zenodo.22375530. See `CITATION.cff` for the full citation.
+Archived at Zenodo (v1.0.0): [10.5281/zenodo.22375531](https://doi.org/10.5281/zenodo.22375531). Concept DOI (all versions): 10.5281/zenodo.22375530. Simulation code developed by Majed Alshammari; see `CITATION.cff` for the full citation.
 
 ## License
 
